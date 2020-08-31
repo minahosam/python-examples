@@ -1,0 +1,5 @@
+print('abcABC'.isalpha())
+print('0100010'.isdecimal())
+print('a'.isascii())
+print('50A05'.isdigit())
+input("p e t e")

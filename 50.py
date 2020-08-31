@@ -1,0 +1,5 @@
+file=open("file 1.txt",'a')
+file.write('mina\n')
+file.write('pc\n')
+file.close()
+input('p e t e')
